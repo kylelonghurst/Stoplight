@@ -85,9 +85,10 @@
         </Canvas>
         <Button x:Name="btnleft" Content="Car Stops" HorizontalAlignment="Left" Margin="35,295,0,0" VerticalAlignment="Top" Width="75" Click="btnleft_Click"/>
         <Button x:Name="btnBottom" Content="Car Stops" HorizontalAlignment="Left" Margin="308,317,0,0" VerticalAlignment="Top" Width="75"/>
-        <Image HorizontalAlignment="Left" Margin="363,355,0,0" VerticalAlignment="Top"  Source="Resources/maveriklogo.png"/>
-        <Image HorizontalAlignment="Left" Margin="10,355,0,0" VerticalAlignment="Top" Source="Resources/chinatown.png" Width="163"/>
-        <Image HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top" Source="Resources/allens.png" Width="163"/>
-        <Image HorizontalAlignment="Left" Margin="381,0,0,0" VerticalAlignment="Top" Source="Resources/sdalogo.png" Width="136" />
+        <Image x:Name="MaverikImage" HorizontalAlignment="Left" Margin="363,355,0,0" VerticalAlignment="Top"  Source="Resources/maveriklogo.png"/>
+        <Image x:Name="ChinatownImage" HorizontalAlignment="Left" Margin="10,355,0,0" VerticalAlignment="Top" Source="Resources/chinatown.png" Width="163"/>
+        <Image x:Name="AllensImage" HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top" Source="Resources/allens.png" Width="163"/>
+        <Image x:Name="SDAlogoImage" HorizontalAlignment="Left" Margin="381,0,0,0" VerticalAlignment="Top" Source="Resources/sdalogo.png" Width="136" />
+        <Button x:Name="TestButton" Content="Button" HorizontalAlignment="Left" Margin="250,225,0,0" VerticalAlignment="Top" Width="75"/>
     </Grid>
 </Window>
