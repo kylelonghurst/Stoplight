@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-\\vmware-host\Shared Folders\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\
+C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\obj\Debug\
 StopLight
 none
 false
 DEBUG;TRACE
-\\vmware-host\Shared Folders\Documents\repos\stoplight\StopLight\StopLight\App.xaml
+C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\App.xaml
 11151548125
 
-91090845127
+9-1453225345
 12-114506869
 MainWindow.xaml;
 

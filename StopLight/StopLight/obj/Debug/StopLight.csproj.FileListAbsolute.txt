@@ -14,3 +14,6 @@ C:\Users\Jason Longhurst\Documents\Visual Studio 2012\Projects\403\StopLight\Sto
 \\vmware-host\Shared Folders\Documents\repos\stoplight\StopLight\StopLight\bin\Debug\StopLight.exe.config
 \\vmware-host\Shared Folders\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\StopLight.exe
 \\vmware-host\Shared Folders\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\StopLight.pdb
+C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\bin\Debug\StopLight.exe.config
+C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\obj\Debug\StopLight.exe
+C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\obj\Debug\StopLight.pdb
