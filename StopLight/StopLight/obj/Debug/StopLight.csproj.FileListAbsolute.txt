@@ -11,3 +11,6 @@ C:\Users\Jason Longhurst\Documents\Visual Studio 2012\Projects\403\StopLight\Sto
 C:\Users\Jason Longhurst\Documents\Visual Studio 2012\Projects\403\StopLight\StopLight\obj\Debug\StopLight.csproj.GenerateResource.Cache
 C:\Users\Jason Longhurst\Documents\Visual Studio 2012\Projects\403\StopLight\StopLight\obj\Debug\StopLight.exe
 C:\Users\Jason Longhurst\Documents\Visual Studio 2012\Projects\403\StopLight\StopLight\obj\Debug\StopLight.pdb
+\\vmware-host\Shared Folders\Documents\repos\stoplight\StopLight\StopLight\bin\Debug\StopLight.exe.config
+\\vmware-host\Shared Folders\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\StopLight.exe
+\\vmware-host\Shared Folders\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\StopLight.pdb
