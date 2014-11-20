@@ -19,6 +19,7 @@ namespace StopLight
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
+    /// AUSTIN IS AN INTRAMURAL CHAMP!!!
     /// </summary>
     public partial class MainWindow : Window
     {
