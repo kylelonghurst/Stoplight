@@ -89,6 +89,6 @@
         <Image x:Name="ChinatownImage" HorizontalAlignment="Left" Margin="10,355,0,0" VerticalAlignment="Top" Source="Resources/chinatown.png" Width="163"/>
         <Image x:Name="AllensImage" HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top" Source="Resources/allens.png" Width="163"/>
         <Image x:Name="SDAlogoImage" HorizontalAlignment="Left" Margin="381,0,0,0" VerticalAlignment="Top" Source="Resources/sdalogo.png" Width="136" />
-        <Button x:Name="TestButton" Content="Button" HorizontalAlignment="Left" Margin="250,225,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="TestButton" Content="Kyle's Button" HorizontalAlignment="Left" Margin="250,225,0,0" VerticalAlignment="Top" Width="75" Click="TestButton_Click"/>
     </Grid>
 </Window>

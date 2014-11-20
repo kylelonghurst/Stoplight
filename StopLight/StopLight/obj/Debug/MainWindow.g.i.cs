@@ -327,6 +327,12 @@ namespace StopLight {
             return;
             case 23:
             this.TestButton = ((System.Windows.Controls.Button)(target));
+            
+            #line 92 "..\..\MainWindow.xaml"
+            this.TestButton.Click += new System.Windows.RoutedEventHandler(this.TestButton_Click);
+            
+            #line default
+            #line hidden
             return;
             }
             this._contentLoaded = true;
