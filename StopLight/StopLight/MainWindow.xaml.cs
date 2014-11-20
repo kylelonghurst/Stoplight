@@ -140,5 +140,10 @@ namespace StopLight
         {
             Console.WriteLine("You now have kyle's updates to the Project!!");
         }
+
+        private void joshBtnClick(object sender, RoutedEventArgs e)
+        {
+            joshLabel.Content = "Pokemon";
+        }
     }
 }

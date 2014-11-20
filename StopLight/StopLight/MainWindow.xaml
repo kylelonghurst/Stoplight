@@ -93,5 +93,7 @@
         <Image HorizontalAlignment="Left" Margin="10,355,0,0" VerticalAlignment="Top" Source="Resources/chinatown.png" Width="163"/>
         <Image HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top" Source="Resources/allens.png" Width="163"/>
         <Image HorizontalAlignment="Left" Margin="381,0,0,0" VerticalAlignment="Top" Source="Resources/sdalogo.png" Width="136" />
+        <Button x:Name="joshBtn" Content="The button called Josh" HorizontalAlignment="Left" Margin="58,111,0,0" VerticalAlignment="Top" Width="139" Height="19" Click="joshBtnClick"/>
+        <Label x:Name="joshLabel" Content="" HorizontalAlignment="Left" Margin="228,175,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
