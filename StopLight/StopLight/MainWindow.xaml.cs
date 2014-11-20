@@ -139,7 +139,7 @@ namespace StopLight
 
         private void TestButton_Click(object sender, RoutedEventArgs e)
         {
-            Console.WriteLine("You now have kyle's updates to the Project!!");
+            Console.WriteLine("You now have kyle's very new updates to the Project!!");
         }
     }
 }
