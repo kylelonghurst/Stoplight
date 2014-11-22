@@ -23,8 +23,6 @@ namespace StopLight
     /// </summary>
     /// 
 
-    
-
     public partial class MainWindow : Window
     {
         //System.Windows.Threading.DispatcherTimer dispatcherTimer = new System.Windows.Threading.DispatcherTimer();
@@ -57,8 +55,17 @@ namespace StopLight
             Thread.Sleep(25000);
         }
 
+        private void enableButtons()
+        {
+            Btn1.IsEnabled = true;
+            Btn2.IsEnabled = true;
+            Btn3.IsEnabled = true;
+            Btn4.IsEnabled = true;
+        }
+
         private void LightLogic1()
         {
+            enableButtons();
 
         }
 
@@ -69,6 +76,8 @@ namespace StopLight
 
         private void LightLogic3()
         {
+            enableButtons();
+            SleepFive();
 
         }
         /*
@@ -164,14 +173,15 @@ namespace StopLight
                 }
             }
  */
-
+        /*
         private void btnleft_Click(object sender, RoutedEventArgs e)
         {
             //dispatcherTimer.IsEnabled = false;
             //iLeftRight = 2;
             //dispatcherTimer.IsEnabled = true;
         }        
-
+        */
+        
         private void Btn3Click(object sender, RoutedEventArgs e)
         {
             Light3.atStoplight = true;
