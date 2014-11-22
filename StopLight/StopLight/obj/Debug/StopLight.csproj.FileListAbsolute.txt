@@ -46,3 +46,16 @@ C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\St
 \\VBOXSVR\ktcoopers\Stoplight\StopLight\StopLight\obj\Debug\StopLight.exe
 \\VBOXSVR\ktcoopers\Stoplight\StopLight\StopLight\obj\Debug\StopLight.pdb
 >>>>>>> d426561901544a62a2bccf4582221229c60eb0ed
+Z:\Documents\repos\stoplight\StopLight\StopLight\bin\Debug\StopLight.exe.config
+Z:\Documents\repos\stoplight\StopLight\StopLight\bin\Debug\StopLight.exe
+Z:\Documents\repos\stoplight\StopLight\StopLight\bin\Debug\StopLight.pdb
+Z:\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\StopLight.csprojResolveAssemblyReference.cache
+Z:\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\MainWindow.baml
+Z:\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\MainWindow.g.cs
+Z:\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\App.g.cs
+Z:\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\StopLight_MarkupCompile.cache
+Z:\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\StopLight.g.resources
+Z:\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\StopLight.Properties.Resources.resources
+Z:\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\StopLight.csproj.GenerateResource.Cache
+Z:\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\StopLight.exe
+Z:\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\StopLight.pdb
