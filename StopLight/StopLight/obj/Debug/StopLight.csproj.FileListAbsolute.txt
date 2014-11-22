@@ -27,6 +27,7 @@ C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLi
 C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\obj\Debug\StopLight.g.resources
 C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\obj\Debug\StopLight.Properties.Resources.resources
 C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\obj\Debug\StopLight.csproj.GenerateResource.Cache
+<<<<<<< HEAD
 C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\bin\Debug\StopLight.exe.config
 C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\StopLight.exe
 C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\StopLight.pdb
@@ -40,3 +41,8 @@ C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\St
 C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\StopLight.g.resources
 C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\StopLight.Properties.Resources.resources
 C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\StopLight.csproj.GenerateResource.Cache
+=======
+\\VBOXSVR\ktcoopers\Stoplight\StopLight\StopLight\bin\Debug\StopLight.exe.config
+\\VBOXSVR\ktcoopers\Stoplight\StopLight\StopLight\obj\Debug\StopLight.exe
+\\VBOXSVR\ktcoopers\Stoplight\StopLight\StopLight\obj\Debug\StopLight.pdb
+>>>>>>> d426561901544a62a2bccf4582221229c60eb0ed
