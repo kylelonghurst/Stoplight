@@ -23,8 +23,6 @@ namespace StopLight
     /// </summary>
     /// 
 
-    
-
     public partial class MainWindow : Window
     {
         //System.Windows.Threading.DispatcherTimer dispatcherTimer = new System.Windows.Threading.DispatcherTimer();
@@ -72,7 +70,16 @@ namespace StopLight
             Thread.Sleep(25000);
         }
 
+        private void enableButtons()
+        {
+            Btn1.IsEnabled = true;
+            Btn2.IsEnabled = true;
+            Btn3.IsEnabled = true;
+            Btn4.IsEnabled = true;
+        }
+
         private void LightLogic1()
+<<<<<<< HEAD
         {
             // turn off lights 2, 3, and 4
             Light2.turnOff(RightRed, RightYellow, RightGreen);
@@ -83,6 +90,11 @@ namespace StopLight
 
             // turn light 3 and 4R on
             Light1.turnON(TopRed, TopYellow, TopGreen);
+=======
+        {
+            enableButtons();
+
+>>>>>>> Kyle
         }
 
         private void LightLogic2and4()
@@ -101,18 +113,121 @@ namespace StopLight
         }
 
         private void LightLogic3()
+<<<<<<< HEAD
         {
             DefaultLogic();
         }
 
 
+=======
+        {
+            enableButtons();
+            SleepFive();
+
+        }
+        /*
+        private void dispatcherTimer_Tick(object sender, EventArgs e)
+        {
+            SolidColorBrush red = new SolidColorBrush(Colors.Red);
+            SolidColorBrush green = new SolidColorBrush(Colors.Green);
+            SolidColorBrush yellow = new SolidColorBrush(Colors.Yellow);
+            SolidColorBrush gray = new SolidColorBrush(Colors.LightGray);
+
+                if (iLeftRight == 0)
+                {
+                    LeftGreen.Fill = gray;
+                    LeftYellow.Fill = gray;
+                    LeftRed.Fill = red;
+
+                    RightGreen.Fill = gray;
+                    RightYellow.Fill = gray;
+                    RightRed.Fill = red;
+
+                    TopGreen.Fill = green;
+                    TopYellow.Fill = gray;
+                    TopRed.Fill = gray; 
+
+                    BottomGreen.Fill = green;
+                    BottomYellow.Fill = gray;
+                    BottomRed.Fill = gray;
+
+                    iLeftRight = 1;
+                }
+
+                else if (iLeftRight == 1)
+                {
+                    LeftGreen.Fill = gray;
+                    LeftYellow.Fill = gray;
+                    LeftRed.Fill = red;
+
+                    RightGreen.Fill = gray;
+                    RightYellow.Fill = gray;
+                    RightRed.Fill = red;
+
+                    TopGreen.Fill = gray;
+                    TopYellow.Fill = yellow;
+                    TopRed.Fill = gray;
+
+                    BottomGreen.Fill = gray;
+                    BottomYellow.Fill = yellow;
+                    BottomRed.Fill = gray;
+
+                    iLeftRight = 2;
+                }
+
+                else if (iLeftRight == 2)
+                {
+                    LeftGreen.Fill = green;
+                    LeftYellow.Fill = gray;
+                    LeftRed.Fill = gray;
+
+                    RightGreen.Fill = green;
+                    RightYellow.Fill = gray;
+                    RightRed.Fill = gray;
+
+                    TopGreen.Fill = gray;
+                    TopYellow.Fill = gray;
+                    TopRed.Fill = red;
+
+                    BottomGreen.Fill = gray;
+                    BottomYellow.Fill = gray;
+                    BottomRed.Fill = red;
+
+                    iLeftRight = 3;
+                }
+
+                else if (iLeftRight == 3)
+                {
+                    LeftGreen.Fill = gray;
+                    LeftYellow.Fill = yellow;
+                    LeftRed.Fill = gray;
+
+                    RightGreen.Fill = gray;
+                    RightYellow.Fill = yellow;
+                    RightRed.Fill = gray;
+
+                    TopGreen.Fill = gray;
+                    TopYellow.Fill = gray;
+                    TopRed.Fill = red;
+
+                    BottomGreen.Fill = gray;
+                    BottomYellow.Fill = gray;
+                    BottomRed.Fill = red;
+
+                    iLeftRight = 0;
+                }
+            }
+ */
+        /*
+>>>>>>> Kyle
         private void btnleft_Click(object sender, RoutedEventArgs e)
         {
             //dispatcherTimer.IsEnabled = false;
             //iLeftRight = 2;
             //dispatcherTimer.IsEnabled = true;
         }        
-
+        */
+        
         private void Btn3Click(object sender, RoutedEventArgs e)
         {
             Light3.atStoplight = true;

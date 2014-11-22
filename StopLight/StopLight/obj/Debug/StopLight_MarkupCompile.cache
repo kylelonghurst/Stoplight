@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿StopLight
 
 
@@ -18,3 +19,25 @@ MainWindow.xaml;
 
 False
 
+=======
+﻿StopLight
+
+
+winexe
+C#
+.cs
+C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\obj\Debug\
+StopLight
+none
+false
+DEBUG;TRACE
+C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\App.xaml
+11151548125
+
+61411398606
+12-1401562060
+MainWindow.xaml;
+
+False
+
+>>>>>>> Kyle
