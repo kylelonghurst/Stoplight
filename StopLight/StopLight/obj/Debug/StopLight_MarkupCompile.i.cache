@@ -5,19 +5,27 @@ winexe
 C#
 .cs
 <<<<<<< HEAD
+<<<<<<< HEAD
 \\vmware-host\Shared Folders\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\
 =======
 \\VBOXSVR\ktcoopers\Stoplight\StopLight\StopLight\obj\Debug\
 >>>>>>> taylor-goGit
+=======
+C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\obj\Debug\
+>>>>>>> Kyle
 StopLight
 none
 false
 DEBUG;TRACE
 <<<<<<< HEAD
+<<<<<<< HEAD
 \\vmware-host\Shared Folders\Documents\repos\stoplight\StopLight\StopLight\App.xaml
+=======
+C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\App.xaml
+>>>>>>> Kyle
 11151548125
 
-91090845127
+101975919763
 12-114506869
 =======
 \\VBOXSVR\ktcoopers\Stoplight\StopLight\StopLight\App.xaml

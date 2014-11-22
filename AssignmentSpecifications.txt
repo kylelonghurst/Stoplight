@@ -1,0 +1,39 @@
+This is a group project. Everyone needs to participate.
+
+EVERYONE needs to upload the project, flowchart, and assessment document or you will not receive credit.
+
+Here is the assessment (this document will only be seen by the TAs and the Professor) document TeamEvals_403.xlsx  Download
+
+Please see the attached graphic.
+
+Stoplight.jpg  Download
+
+Using the logic on the graphic and using at least 1 thread (you might have to use more), write a program that simulates this intersection of 300 S and State St in Provo.
+
+Here are some other rules:
+
+- Add buttons at each intersection to simulate a car coming up to the stop light. That triggers the sensor to say a car is waiting. If no cars are waiting, leave stoplight #3 on and stoplight's #4 right green arrow on. 
+
+- If a car comes up to light #1 and no other cars are there, wait 5 seconds and if no cars still come, enable this light's logic.
+
+- If a car comes up to light #2 and no other cars are there, wait 5 seconds and if no cars still come, enable #2 and #4
+
+- If a car comes up to light #3 and no other cars are there, wait 5 seconds and if no cars still come, enable #3
+
+- If cars are going through the lights, make sure you set some type of flag to tell the other stoplights that a car is waiting and then proceed with the logic.
+
+The key will be to test the pattern of no cars being sensed and just running through the normal pattern of leaving light #3 on until a car is sensed and then handling when other cars come. I want the sensors to stop the lights 5 seconds if no other cars come. Otherwise, if there are cars, then wait a full 30 seconds and turn off that light to let the car(s) waiting go.
+
+Light #3 and #4's right turn arrow should be on all the time unless cars are sensed.
+
+If cars are all at the lights, the order is #3, #2 and #4, and #1 and then back to #3.
+
+The only turn arrow that has to be represented is the right turn on light #4 and the left turns on light #3.
+
+Make sure you document the code.
+
+Make sure you show the stop lights using shapes. Also add buttons that you can click to simulate a car at the light.
+
+You must also complete a flowchart for the logic.
+
+Submit the flowchart here along with the zipped project and then schedule a time with the TAs for grading
