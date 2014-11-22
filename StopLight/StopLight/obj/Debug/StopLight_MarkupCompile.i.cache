@@ -6,18 +6,36 @@ C#
 .cs
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\
+=======
+>>>>>>> 40bfd7f437d95d0de809998bc297e24af7626043
+<<<<<<< HEAD
 \\vmware-host\Shared Folders\Documents\repos\stoplight\StopLight\StopLight\obj\Debug\
 =======
 \\VBOXSVR\ktcoopers\Stoplight\StopLight\StopLight\obj\Debug\
 >>>>>>> taylor-goGit
+<<<<<<< HEAD
 =======
 C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\obj\Debug\
 >>>>>>> Kyle
+=======
+>>>>>>> d426561901544a62a2bccf4582221229c60eb0ed
+>>>>>>> 40bfd7f437d95d0de809998bc297e24af7626043
 StopLight
 none
 false
 DEBUG;TRACE
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\App.xaml
+11151548125
+
+9-1915385646
+12-1401562060
+=======
+>>>>>>> 40bfd7f437d95d0de809998bc297e24af7626043
 <<<<<<< HEAD
 \\vmware-host\Shared Folders\Documents\repos\stoplight\StopLight\StopLight\App.xaml
 =======
@@ -34,6 +52,7 @@ C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLi
 9-716545381
 12-876897656
 >>>>>>> taylor-goGit
+>>>>>>> d426561901544a62a2bccf4582221229c60eb0ed
 MainWindow.xaml;
 
 False

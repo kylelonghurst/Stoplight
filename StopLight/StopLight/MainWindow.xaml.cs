@@ -21,6 +21,10 @@ namespace StopLight
     /// Interaction logic for MainWindow.xaml
     /// AUSTIN IS AN INTRAMURAL CHAMP!!!
     /// </summary>
+    /// 
+
+    
+
     public partial class MainWindow : Window
     {
         System.Windows.Threading.DispatcherTimer dispatcherTimer = new System.Windows.Threading.DispatcherTimer();
@@ -140,6 +144,28 @@ namespace StopLight
         private void TestButton_Click(object sender, RoutedEventArgs e)
         {
             Console.WriteLine("You now have kyle's very new updates to the Project!!");
+        }
+
+        
+
+        private void Btn3Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+        private void Btn2Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Btn1Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Btn4Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
