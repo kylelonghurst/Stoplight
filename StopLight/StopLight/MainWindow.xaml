@@ -84,14 +84,15 @@
                     StrokeThickness="2"
                     Stroke="Black" Canvas.Top="10"/>
         </Canvas>
-        <Button x:Name="btnleft" Content="Car Stops" HorizontalAlignment="Left" Margin="35,295,0,0" VerticalAlignment="Top" Width="75" Click="btnleft_Click"/>
-        <Button x:Name="btnBottom" Content="Car Stops" HorizontalAlignment="Left" Margin="308,317,0,0" VerticalAlignment="Top" Width="75"/>
-
-        <Button x:Name="TestButton" Content="Kyle's Button" HorizontalAlignment="Left" Margin="250,225,0,0" VerticalAlignment="Top" Width="75" Click="TestButton_Click"/>
+        <Button x:Name="Btn4" Content="Car Stops" HorizontalAlignment="Left" Margin="10,283,0,0" VerticalAlignment="Top" Width="75" Click="Btn4Click"/>
+        <Button x:Name="Btn3" Content="Car Stops" HorizontalAlignment="Left" Margin="274,398,0,0" VerticalAlignment="Top" Width="75" Click="Btn3Click"/>
 
         <Image HorizontalAlignment="Left" Margin="363,355,0,0" VerticalAlignment="Top"  Source="Resources/maveriklogo.png"/>
         <Image HorizontalAlignment="Left" Margin="10,355,0,0" VerticalAlignment="Top" Source="Resources/chinatown.png" Width="163"/>
         <Image HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top" Source="Resources/allens.png" Width="163"/>
         <Image HorizontalAlignment="Left" Margin="381,0,0,0" VerticalAlignment="Top" Source="Resources/sdalogo.png" Width="136" />
+        <Label x:Name="joshLabel" Content="" HorizontalAlignment="Left" Margin="228,175,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Btn2" Content="Car Stops" HorizontalAlignment="Left" Margin="435,283,0,0" VerticalAlignment="Top" Width="75" Click="Btn2Click"/>
+        <Button x:Name="Btn1" Content="Car Stops" HorizontalAlignment="Left" Margin="279,111,0,0" VerticalAlignment="Top" Width="75" Click="Btn1Click"/>
     </Grid>
 </Window>

@@ -27,3 +27,16 @@ C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLi
 C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\obj\Debug\StopLight.g.resources
 C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\obj\Debug\StopLight.Properties.Resources.resources
 C:\Users\Jason Longhurst\Documents\GitProjects\StoplightProject\StopLight\StopLight\obj\Debug\StopLight.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\bin\Debug\StopLight.exe.config
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\StopLight.exe
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\StopLight.pdb
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\bin\Debug\StopLight.exe
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\bin\Debug\StopLight.pdb
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\StopLight.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\MainWindow.baml
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\MainWindow.g.cs
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\App.g.cs
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\StopLight_MarkupCompile.cache
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\StopLight.g.resources
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\StopLight.Properties.Resources.resources
+C:\Users\Joshua\Documents\gitProjects\Stoplight\StopLight\StopLight\obj\Debug\StopLight.csproj.GenerateResource.Cache
