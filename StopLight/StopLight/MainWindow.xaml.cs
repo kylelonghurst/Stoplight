@@ -27,20 +27,51 @@ namespace StopLight
 
     public partial class MainWindow : Window
     {
-        System.Windows.Threading.DispatcherTimer dispatcherTimer = new System.Windows.Threading.DispatcherTimer();
-        int iLeftRight;
+        //System.Windows.Threading.DispatcherTimer dispatcherTimer = new System.Windows.Threading.DispatcherTimer();
+        //int iLeftRight;
+
+        Stoplight Light1 = new Stoplight(false, false);
+        Stoplight Light2 = new Stoplight(false, false);
+        Stoplight Light3 = new Stoplight(false, false);
+        Stoplight Light4 = new Stoplight(false, false);
+        Stoplight Light4R = new Stoplight(false, false);
 
         public MainWindow()
         {
             InitializeComponent();
 
-            iLeftRight = 0;
+            //iLeftRight = 0;
 
-            dispatcherTimer.Tick += new EventHandler(dispatcherTimer_Tick);
-            dispatcherTimer.Interval = new TimeSpan(0, 0, 3);
-            dispatcherTimer.Start();
+            //dispatcherTimer.Tick += new EventHandler(dispatcherTimer_Tick);
+            //dispatcherTimer.Interval = new TimeSpan(0, 0, 3);
+            //dispatcherTimer.Start();
         }
 
+        private void SleepFive()
+        {
+            Thread.Sleep(5000);
+        }
+
+        private void SleepTwentyFive()
+        {
+            Thread.Sleep(25000);
+        }
+
+        private void LightLogic1()
+        {
+
+        }
+
+        private void LightLogic2and4()
+        {
+
+        }
+
+        private void LightLogic3()
+        {
+
+        }
+        /*
         private void dispatcherTimer_Tick(object sender, EventArgs e)
         {
             SolidColorBrush red = new SolidColorBrush(Colors.Red);
@@ -132,33 +163,37 @@ namespace StopLight
                     iLeftRight = 0;
                 }
             }
- 
+ */
 
         private void btnleft_Click(object sender, RoutedEventArgs e)
         {
-            dispatcherTimer.IsEnabled = false;
-            iLeftRight = 2;
-            dispatcherTimer.IsEnabled = true;
+            //dispatcherTimer.IsEnabled = false;
+            //iLeftRight = 2;
+            //dispatcherTimer.IsEnabled = true;
         }        
 
         private void Btn3Click(object sender, RoutedEventArgs e)
         {
-            
+            Light3.atStoplight = true;
+            Btn3.IsEnabled = false;
         }
 
         private void Btn2Click(object sender, RoutedEventArgs e)
         {
-
+            Light2.atStoplight = true;
+            Btn2.IsEnabled = false;
         }
 
         private void Btn1Click(object sender, RoutedEventArgs e)
         {
-
+            Light1.atStoplight = true;
+            Btn1.IsEnabled = false;
         }
 
         private void Btn4Click(object sender, RoutedEventArgs e)
         {
-
+            Light4.atStoplight = true;
+            Btn4.IsEnabled = false;
         }
     }
 }
