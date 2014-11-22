@@ -8,5 +8,15 @@ namespace StopLight
 {
     class Stoplight
     {
+        private bool isActive { get; set; }
+        private bool atStoplight { get; set; }
+
+        private void turnON()
+        {
+        }
+
+        private void turnOff()
+        {
+        }
     }
 }

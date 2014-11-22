@@ -139,14 +139,7 @@ namespace StopLight
             dispatcherTimer.IsEnabled = false;
             iLeftRight = 2;
             dispatcherTimer.IsEnabled = true;
-        }
-
-        private void TestButton_Click(object sender, RoutedEventArgs e)
-        {
-            Console.WriteLine("You now have kyle's very new updates to the Project!!");
-        }
-
-        
+        }        
 
         private void Btn3Click(object sender, RoutedEventArgs e)
         {
