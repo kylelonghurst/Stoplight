@@ -40,7 +40,7 @@ namespace StopLight
             Green.Fill = BLACK;
         }
 
-        public void turnOff(Ellipse Red, Ellipse Yellow, Ellipse Green)
+        public void turnOFF(Ellipse Red, Ellipse Yellow, Ellipse Green)
         {
             isActive = false;
             Red.Fill = RED;
